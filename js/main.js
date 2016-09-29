@@ -1,4 +1,4 @@
-"use strict";
+ï»¿"use strict";
 document.addEventListener("DOMContentLoaded", function() {
 	var oHd = document.querySelector("header");
 	var oSimShow = document.querySelector(".sim-show");
@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function() {
 			})(i)
 		}
 	})(function(){
-		console.log('ÎÒÊÇÊ¯Ðñ³¬£¬ÕâÊÇÎÒµÄ¸öÈËÖ÷Ò³');
+		console.log('æˆ‘æ˜¯çŸ³æ—­è¶…ï¼Œè¿™æ˜¯æˆ‘çš„ä¸ªäººä¸»é¡µ');
 	}());
 	(function() {
 		var oBtn = oHd.querySelector(".me-btn");
